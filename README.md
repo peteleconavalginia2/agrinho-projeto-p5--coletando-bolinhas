@@ -1,0 +1,1 @@
+ola pessoal, meu projeto e sobre o agrinho, o jogo funciona com as setas do computador o objetivo dele e capturar as bolinhas verdes a cada bolinha verde capturada vc ganha um ponto mas tem as bolinhas marrons caso vc encoste sua bolinha verde na marrom voce perde uma bolinha verde ou no caso um ponto 
